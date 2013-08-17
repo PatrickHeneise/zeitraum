@@ -1,0 +1,8 @@
+pids
+logs
+results
+tests
+docs
+ 
+node_modules
+npm-debug.log

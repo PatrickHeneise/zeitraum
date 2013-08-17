@@ -1,0 +1,29 @@
+{
+  "name": "ZeitRaum",
+  "description": "spatio-temporal query library for Couchbase",
+  "private": false,
+  "homepage": "http://patrickheneise.com",
+  "repository"      : "git://github.com/PatrickHeneise/zeitraum",
+  "version": "0.0.1",
+  "author": "Patrick Heneise <@PatrickHeneise>",
+  "keywords": [
+    "geocouch",
+    "couchbase",
+    "spatial",
+    "temporal",
+    "spatiotemporal"
+  ],
+  "dependencies": {
+    "sparta": "0.0.1",
+    "async": "~0.2.9"
+  },
+  "devDependencies": {
+  	"should": "~1.2.2",
+    "baseview": "0.0.3",
+    "mocha": "~1.12.0"
+  },
+  "main": "./zeitraum.js",
+  "engines": {
+    "node": ">=0.8.1"
+  }
+}

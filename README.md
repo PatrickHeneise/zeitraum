@@ -15,6 +15,9 @@ ZeitRaum is a library to retrieve document ids filtered by time and geolocation.
 ```
 
 # usage
+npm install zeitraum
+
+
 ``` js
   var zeitraum = require('./zeitraum'),
     lat = 41.387,

@@ -1,5 +1,5 @@
 {
-  "name": "ZeitRaum",
+  "name": "zeitraum",
   "description": "spatio-temporal query library for Couchbase",
   "private": false,
   "homepage": "http://patrickheneise.com",
